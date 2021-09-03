@@ -1,0 +1,38 @@
+* {
+  margin: 0rem;
+  padding: 0rem;
+}
+
+html {
+  font-size: 10px;
+  font-family: "Source Sans Pro", sans-serif;
+  font-family: "Bebas Neue", cursive;
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+:root {
+  /*  Paleta de Colores  */
+  --azul: #2855ae;
+  --celeste: #7292cf;
+  --dark-gray: #3a3a3a;
+  --gray: #777777;
+  --white: #fff;
+
+  --h1: 3.4rem;
+  --h2: 3rem;
+  --h3: 2rem;
+  --parrafo1: 1.8rem;
+  --parrafo2: 1.6rem;
+  --textodecorado: 1.2rem;
+}
+
+.background-section {
+  width: 100%;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+.section-body {
+  max-width: 130rem;
+  height: auto;
+  margin: auto;
+}
